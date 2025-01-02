@@ -49,3 +49,7 @@ exit
 Join our Telegram to keep yourslef updated 😈
 
 # Screenshot
+
+![Banner](https://github.com/Devilshacking/Termux-Banner/blob/main/Style/Banner.jpg)
+
+Enjoy💖 
